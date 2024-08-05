@@ -1,0 +1,23 @@
+h1
+{
+    text-align: center;
+    color:#734343;
+    background-color: #b5e5d5;
+}
+
+h2
+{
+    background-color: rgba(209, 209, 144, 0.521);
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 5px;
+}
+
+li,p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 2px;
+}
+
